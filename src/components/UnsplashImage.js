@@ -11,5 +11,5 @@ const Img = styled.img`
   width: 100%;
   height: 100%;
   object-fit: cover;
-  filter: drop-shadow(30px 10px 4px #4444dd);
+  filter: drop-shadow(5px 3px 4px #4444dd);
 `;
