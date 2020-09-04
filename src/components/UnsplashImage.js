@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 export const UnsplashImage = ({ url, keys, id }) => {
-  console.log('key', keys);
+  // console.log('key', keys);
   return <Img src={url} key={keys} alt='' />;
 };
 
